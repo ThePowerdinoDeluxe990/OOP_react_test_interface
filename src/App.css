@@ -1,0 +1,9 @@
+.Post_container{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    
+}
+body{
+    background-color: rgb(102, 104, 105);
+}
